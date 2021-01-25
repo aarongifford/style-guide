@@ -7,6 +7,7 @@
   1. [Hooks](#hooks)
   1. [Redux](#redux)
   1. [ReduxSaga](#redux-saga)
+  1. [Jest](#jest)
   1. [Storybook](#storybook)
    
 # JavaScript
