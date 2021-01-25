@@ -1,4 +1,4 @@
-# In Process Style Guide
+# In Process Best Practices / Style Guide
 ## Technologies Table of Contents
 
   1. [JavaScript](#javacript)
@@ -121,6 +121,7 @@
 ## React Table of Contents
 
   1. [Props](#props)
+  1. [Testing](#react-testing)
   1. [React Links](#react-links)
 
 ## Props
@@ -160,7 +161,7 @@
   **[⬆ back to section top](#javascript-table-of-contents)**  
 ## React Links
 [Airbnb Style Guide](https://github.com/airbnb/javascript/tree/master/react)  
-[Patterns](https://reactpatterns.com/)  
+[React Patterns](https://reactpatterns.com/)  
 [Component Patterns Links](https://github.com/markerikson/react-redux-links/blob/master/react-component-patterns.md)  
 ## People
 [Dan Abramov (React)](https://overreacted.io/)  
@@ -187,6 +188,12 @@
 # Redux Saga
 ## Links
 [Introduction](https://redux-saga.js.org/docs/introduction/)  
+**[⬆ back to top](#technologies-table-of-contents)** 
+
+# Jest
+## Links
+[Testing React Apps](https://jestjs.io/docs/en/tutorial-react)  
+[Testing React Native Apps](https://jestjs.io/docs/en/tutorial-react-native)  
 **[⬆ back to top](#technologies-table-of-contents)** 
    
 # Storybook
